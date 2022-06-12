@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.launching.macosx.MacOSXType/Java SE 8 [1.8.0_291]"/>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="lib" path="/Users/deepak/Desktop/Selenium Installation/selenium-java-3/libs/byte-buddy-1.8.15.jar"/>
+	<classpathentry kind="lib" path="/Users/deepak/Desktop/Selenium Installation/selenium-java-3/libs/commons-exec-1.3.jar"/>
+	<classpathentry kind="lib" path="/Users/deepak/Desktop/Selenium Installation/selenium-java-3/libs/guava-25.0-jre.jar"/>
+	<classpathentry kind="lib" path="/Users/deepak/Desktop/Selenium Installation/selenium-java-3/libs/okhttp-3.11.0.jar"/>
+	<classpathentry kind="lib" path="/Users/deepak/Desktop/Selenium Installation/selenium-java-3/libs/okio-1.14.0.jar"/>
+	<classpathentry kind="lib" path="/Users/deepak/Desktop/Selenium Installation/selenium-java-3/client-combined-3.141.59-sources.jar"/>
+	<classpathentry kind="lib" path="/Users/deepak/Desktop/Selenium Installation/selenium-java-3/client-combined-3.141.59.jar"/>
+	<classpathentry kind="con" path="org.testng.TESTNG_CONTAINER"/>
+	<classpathentry kind="lib" path="/Users/deepak/Desktop/Selenium Installation/selenium-java-3/libs/commons-codec-1.15.jar"/>
+	<classpathentry kind="lib" path="/Users/deepak/Downloads/poi-3.17/lib/commons-codec-1.10.jar"/>
+	<classpathentry kind="lib" path="/Users/deepak/Downloads/poi-3.17/lib/commons-collections4-4.1.jar"/>
+	<classpathentry kind="lib" path="/Users/deepak/Downloads/poi-3.17/lib/commons-logging-1.2.jar"/>
+	<classpathentry kind="lib" path="/Users/deepak/Downloads/poi-3.17/lib/junit-4.12.jar"/>
+	<classpathentry kind="lib" path="/Users/deepak/Downloads/poi-3.17/lib/log4j-1.2.17.jar"/>
+	<classpathentry kind="lib" path="/Users/deepak/Desktop/Selenium Installation/org.apache.commons.io.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
